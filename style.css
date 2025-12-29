@@ -324,7 +324,7 @@ section .title::after{
 .skills-content .right .js::before{
     width: 80%;
 }
-.skills-content .right .python::before{
+.skills-content .right .java::before{
     width: 90%;
 }
 
@@ -564,4 +564,5 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
+
 }
